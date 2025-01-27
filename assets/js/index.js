@@ -1,5 +1,3 @@
-// NOTE: params are /{width}/{height}, every HTTP GET returns a new dog
-const PLACE_DOG_ROOT_API_URL = "https://place.dog";
 // NOTE: resource path we care about is /breeds/image/random/n returning { message: url[n] }
 const STANFORD_DOG_DATASET_API = "https://dog.ceo/api";
 // NOTE: usage: /?number=n returns n facts.
